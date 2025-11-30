@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 
-  <h1>Hi there, I'm <a href="https://github.com/shawkei">shawkei</a>! <img src="https://media.giphy.com/media/hvRJCLFzcuMiSIVuGs/giphy.gif" width="25px"></h1>
+  <h1>مِسا مِسا  , I'm <a href="https://github.com/shawkei">shawkei</a>! <img src="https://media.giphy.com/media/hvRJCLFzcuMiSIVuGs/giphy.gif" width="25px"></h1>
 
   <p>
     <img src="https://img.shields.io/badge/Style-Vibecoding-ff00ff?style=for-the-badge&logo=sparkles&logoColor=white" alt="Vibecoding" />
