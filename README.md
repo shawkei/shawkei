@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**shawkei/shawkei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <!-- Monospace Font -->
+  <samp>
+    <a href="https://editor.p5js.org/raklaptudirm/sketches">p5.js</a> .
+    <a href="https://en.wikipedia.org/wiki/User:Laptudirm">wikipedia</a> .
+    <a href="https://laptudirm.com/blog">blog</a> .
+    <a href="./metrics.md">metrics</a> .
+    <a href="https://github.com/rakarchive">old-projects</a>
+  </samp>
+</p>
